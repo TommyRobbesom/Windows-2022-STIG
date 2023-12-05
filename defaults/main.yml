@@ -1,8 +1,8 @@
 ---
 
 # defaults file for Windows-2022-STIG
-win2022stig_cat1_patch: true
-win2022stig_cat2_patch: true
+win2022stig_cat1_patch: false
+win2022stig_cat2_patch: false
 win2022stig_cat3_patch: true
 
 win2022stig_min_ansible_version: "2.10.1"
